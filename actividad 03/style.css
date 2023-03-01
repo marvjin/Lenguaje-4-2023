@@ -1,0 +1,32 @@
+
+
+header{
+    background-image: url("img/background-header.jpg");
+    background-size:100%;
+   /* background-size: cover;*/
+}
+
+
+nav{
+    position: absolute;
+    top:325px;
+    text-align: center;
+   
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    
+    color: #ec31bd;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: #c78c19;
+    text-decoration: underline;
